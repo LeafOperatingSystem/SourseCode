@@ -1,4 +1,4 @@
-# Instructions
-To be made in Assembly, or C(or anything eles I find)
-I'm probably going to use a floppy disk for now
-to learn what your doing, just go look up, "how to make an OS"
+# Info
+This is a small side project, or an OS, called Leaf. Anyone can add to it.
+
+You can find more info here, on our discord server (still a work in progress) https://discord.gg/nB9UnHx
